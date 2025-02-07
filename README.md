@@ -63,21 +63,6 @@ To get started with the project, follow these steps:
 
 ```
 ├── src
-│   ├── components  # Reusable UI components
-│   ├── pages       # Application pages
-│   ├── store       # Redux store configuration
-│   ├── features    # Redux slices
-│   ├── routes      # React Router configuration
-│   ├── assets      # Static assets (images, icons, etc.)
-│   ├── hooks       # Custom hooks
-│   ├── utils       # Helper functions
-│   ├── App.jsx     # Main application component
-│   ├── main.jsx    # Entry point
-│   ├── index.css   # Global styles
-```
-
-```
-├── src
 │   ├── ui             # Reusable UI components
 │   ├── services       # API Services
 │   ├── features       # App Features components and Redux slices
