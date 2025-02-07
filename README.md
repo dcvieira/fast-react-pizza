@@ -22,11 +22,11 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/pizza-ordering-system.git
+   git clone https://github.com/dcvieira/fast-react-pizza.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd pizza-ordering-system
+   cd fast-react-pizza
    ```
 3. Install dependencies:
    ```sh
